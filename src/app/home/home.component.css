@@ -1,0 +1,10 @@
+#mainNav {
+    /* padding-top: 1rem; */
+    /* padding-bottom: 1rem; */
+    background-color: #494b45;
+}
+.btn-primary {
+    color: #1206bb;
+    background-color: #7aea0b;
+    border-color: #fed136;
+}

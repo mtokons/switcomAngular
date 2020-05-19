@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "htmalAngu"
+    }
+  },
+  "defaultProject": "htmalAngu",
+  "cli": {
+    "analytics": "82e84fcb-c6ae-4c53-b9d9-3e4a96d4c4c8"
+  }
 }
