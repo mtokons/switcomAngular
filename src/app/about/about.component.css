@@ -1,0 +1,11 @@
+.timeline > li .timeline-image {
+    
+    background-color: #e6b301;
+}
+.timeline > li .timeline-panel {
+    color: olivedrab;
+}
+
+.page-section h2.section-heading {
+    color: olivedrab;
+}
